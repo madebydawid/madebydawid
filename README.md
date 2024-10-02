@@ -1,8 +1,8 @@
 ## Hi there, I'm Dawid. Nice having you here. 👋
 
-### 🔭 I’m currently working on making a transition into Cloud Development, focusing on Azure primarily.
+### 🔭 I’m currently working in IT as an IT Technician and aim at making a transition into Cloud Development, focusing on Azure primarily.
 ### 🌱 I’m currently studying for AZ-900, while also occupying myself with home-lab projects.
-### 💻 Working on my Cloud Resume Challenge.
+### 💻 Working on my Cloud Resume Challenge and other projects.
 
 
 <!--
