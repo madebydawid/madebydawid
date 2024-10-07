@@ -6,7 +6,7 @@
 &nbsp;  
 ### Meanwhile I also occupy myself with home-lab projects mainly using Azure and at times Terraform.
 &nbsp;  
-### 💻 Working on my Cloud Resume Challenge and other projects.
+### 💻 Working on my Cloud Resume Challenge and some Azure automation projects.
 
 
 <!--
