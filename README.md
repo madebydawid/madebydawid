@@ -6,7 +6,7 @@
 &nbsp;  
 ### Meanwhile I also occupy myself with home-lab projects that still my curiosity for technology. I enjoy doing projects with tools like Azure, Terraform, Bash, Automation scripts, Git/GitHub, Virtualization and more.
 &nbsp;  
-### 💻 As of now I focus on finishing my [Cloud Resume Challenge](https://github.com/madebydawid/azure-resume) and some [Azure Monitoring Projects](https://github.com/madebydawid/azure-monitoring-projects).
+### 💻 As of now I focus on finishing my [Cloud Resume Challenge](https://github.com/madebydawid/azure-resume) and all the cool stuff in [DevOps-labs repo](https://github.com/madebydawid/devops-labs).
 
 
 <!--
