@@ -2,7 +2,11 @@
 
 ### 🔭 I’m currently working as an IT Technician and aim at making a transition into Cloud Development, focusing on Azure primarily.
 &nbsp;  
-### 📝 With MS-900 and SC-900 certifications behind me, the aim is now set on AZ-900.  
+
+## Certifications:
+### 📝 MS-900
+### 📝 SC-900
+### 📝 AZ-900
 &nbsp;  
 ### Meanwhile I also occupy myself with home-lab projects that still my curiosity for technology. I enjoy doing projects with tools like Azure, Terraform, Bash, Automation scripts, Git/GitHub, Virtualization and more.
 &nbsp;  
